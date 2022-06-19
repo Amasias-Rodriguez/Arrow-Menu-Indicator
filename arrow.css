@@ -9,7 +9,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    min-height: 105vh;
     background: #333;
 }
 
@@ -37,7 +37,7 @@ ul li a{
 #marker{
     position: absolute;
     top: 0;
-    margin-top: -5px;
+    margin-top: -6px;
     height: 50px;
     transition: 0.5s;
     display: flex;
